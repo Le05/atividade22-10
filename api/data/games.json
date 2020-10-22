@@ -1,0 +1,24 @@
+{
+  "games": {
+    "data": [
+      {
+        "id": "123",
+        "title": "God of War",
+        "year": "2012",
+        "type": "Adventure"
+      },
+      {
+        "id": "124",
+        "title": "The Last of US",
+        "year": "2019",
+        "type": "Horror"
+      },
+      {
+        "id": "125",
+        "title": "Call of Duty - WWW",
+        "year": "2020",
+        "type": "Action"
+      }
+    ]
+  }
+}
